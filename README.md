@@ -10,4 +10,7 @@ This project is part of virtual internship program of [Quantium](https://quantiu
 - Develop metrics and examine sales drivers to gain insights into overall sales performance.
 - Create visualizations and prepare findings to formulate a clear recommendation for the client's strategy.
 
+![](images/tot_sales-lifestages.png)
+
+
 
