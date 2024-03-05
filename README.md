@@ -21,5 +21,17 @@ The goal of the task is as follows:
 #### Customer Brand Preference
 ![](images/affinity_brand.png)
 
-### [Retail Strategy and Analytics - Task 2]()
+### [Retail Strategy and Analytics - Task 2](https://github.com/DonPatricious/Quantium_Chip_Analysis/tree/987b3e9eda3cd2fe26863972679c16a24126d69f/Retail_Strategy_and_Analytics-Task_2)
+The goal of the task is as follows:
+- Define metrics to select control stores for trial stores 77, 86, and 88.
+- Analyze trial stores against controls.
+- Use R/Python for data analysis and visualization and summarise findings and provide recommendations.
+
+[*Click to go to code repository*](https://github.com/DonPatricious/Quantium_Chip_Analysis/tree/987b3e9eda3cd2fe26863972679c16a24126d69f/Retail_Strategy_and_Analytics-Task_2)
+
+#### Matched control store for trial store 77.
+![](images/sales_77_233.png)
+
+
+
 
