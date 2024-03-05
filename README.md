@@ -21,5 +21,5 @@ The goal of the task is as follows:
 #### Customer Brand Preference
 ![](images/affinity_brand.png)
 
-
+### [Retail Strategy and Analytics - Task 2]()
 
