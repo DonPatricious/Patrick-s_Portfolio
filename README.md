@@ -32,6 +32,8 @@ The goal of the task is as follows:
 #### Matched control store for trial store 77.
 ![](images/sales_77_233.png)
 
+### [Retail Strategy and Analytics - Task 3](https://github.com/DonPatricious/Quantium_Chip_Analysis/tree/987b3e9eda3cd2fe26863972679c16a24126d69f/Retail_Strategy_and_Analytics-Task_3)
+Here, the results of the previous two tasks are summarized and presented.
 
-
+[*Click to go to code repository*](https://github.com/DonPatricious/Quantium_Chip_Analysis/tree/987b3e9eda3cd2fe26863972679c16a24126d69f/Retail_Strategy_and_Analytics-Task_3)
 
